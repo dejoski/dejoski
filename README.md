@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=35ced4&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Dejoski;Code.+create.+Iterate." alt="Typing SVG" />
-
 <p align="center">
   <a href="https://github.com/dejoski">
     <img src="https://github-readme-stats.vercel.app/api?username=dejoski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="dejoski's Github Stats" />
