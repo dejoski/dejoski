@@ -26,15 +26,91 @@
 </p>
 
 ---
+# Dejan
 
-### 📈 Contribution Graph
+Data and applied ML engineer focused on production systems.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dejoski&theme=tokyo-night&bg_color=00000000&hide_border=true" width="100%" alt="Contribution Graph" />
+I build data platforms, analytics infrastructure, and AI-assisted tools that run inside real environments. Most of my work lives around pipelines, warehouses, internal tooling, and automation.
 
-<br />
+The problems I care about are reliability, observability, correctness, and leverage.
 
-<p align="center">
-  <samp><i>"The only way to do great work is to love what you do."</i></samp>
-</p>
+---
+
+## Areas of work
+
+Data engineering  
+Analytics engineering  
+Applied ML and LLM systems  
+Internal tools and automation  
+Experimentation and training systems
+
+---
+
+## What I build
+
+### Data and analytics systems
+
+Multi-tenant data pipelines  
+Incremental processing frameworks  
+Warehouse modeling layers  
+Client-level benchmarking systems  
+Automated validation, QA, and backfills  
+Infrastructure that supports BI and downstream products
+
+### Applied AI systems
+
+LLM tools that operate on real schemas and databases  
+Agent systems tied to production workflows  
+Reinforcement learning environments and training loops  
+Structured logging and evaluation layers  
+Sandboxed systems for production-safe experimentation
+
+### Internal products
+
+Analyst and engineer copilots  
+DataOps style automation platforms  
+Debugging and training environments  
+Monitoring and control dashboards
+
+Most projects are designed to remove manual loops and turn repeated decisions into systems.
+
+---
+
+## Stack
+
+Python, SQL, TypeScript  
+Databricks, Snowflake, PostgreSQL  
+Airflow, Docker, GitHub Actions  
+Warehouse design, incremental pipelines, orchestration  
+LLM systems, agents, RL training pipelines  
+Internal tools, APIs, data-centric UIs
+
+---
+
+## Engineering principles
+
+Production first  
+Systems over scripts  
+Observability over assumptions  
+AI as software, not demos  
+Data systems are products
+
+---
+
+## Role focus
+
+Data engineer  
+Analytics engineer  
+Applied ML or AI engineer  
+Data platform engineer
+
+I work best on teams building platforms, internal products, and data driven systems.
+
+---
+
+## Contact
+
+If you are building data platforms, applied AI tools, or internal engineering systems, I am open to serious technical work.
+
 
 </div>
