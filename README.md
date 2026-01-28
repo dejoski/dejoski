@@ -1,46 +1,20 @@
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/dejoski">
-    <img src="https://github-readme-stats.vercel.app/api?username=dejoski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="dejoski's Github Stats" />
-  </a>
-  <a href="https://github.com/dejoski">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejoski&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Lanuages" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
 # Dejan
 
-Data and applied ML engineer focused on production systems.
+Data and applied ML engineer working on production systems.
 
-I build data platforms, analytics infrastructure, and AI-assisted tools that run inside real environments. Most of my work lives around pipelines, warehouses, internal tooling, and automation.
+I design and build data platforms, analytics infrastructure, and AI-assisted tools that operate inside real environments. My work usually sits across pipelines, warehouses, internal products, and applied intelligence layers.
 
-The problems I care about are reliability, observability, correctness, and leverage.
+I focus on systems that are reliable, observable, and composable. If it cannot run unattended, be inspected end-to-end, and evolve without breaking downstream users, it is not finished.
 
 ---
 
 ## Areas of work
 
-Data engineering  
-Analytics engineering  
-Applied ML and LLM systems  
-Internal tools and automation  
-Experimentation and training systems
+Data engineering and platform design  
+Analytics engineering and warehouse modeling  
+Applied ML, LLM systems, and agents  
+Internal tools and workflow automation  
+Experimentation, training systems, and evaluation layers
 
 ---
 
@@ -48,40 +22,40 @@ Experimentation and training systems
 
 ### Data and analytics systems
 
-Multi-tenant data pipelines  
-Incremental processing frameworks  
-Warehouse modeling layers  
-Client-level benchmarking systems  
-Automated validation, QA, and backfills  
-Infrastructure that supports BI and downstream products
+Multi-tenant ingestion and transformation pipelines  
+Incremental processing frameworks and backfill tooling  
+Warehouse modeling layers and metric foundations  
+Client-level modeling and benchmarking systems  
+Automated validation, QA, anomaly detection, and repair  
+Infrastructure that supports BI, ML, and product surfaces
 
 ### Applied AI systems
 
-LLM tools that operate on real schemas and databases  
-Agent systems tied to production workflows  
+LLM tools that operate on live schemas and datasets  
+Agent systems tied to real workflows and permissions  
 Reinforcement learning environments and training loops  
-Structured logging and evaluation layers  
+Evaluation, telemetry, and structured logging layers  
 Sandboxed systems for production-safe experimentation
 
 ### Internal products
 
 Analyst and engineer copilots  
-DataOps style automation platforms  
-Debugging and training environments  
-Monitoring and control dashboards
+DataOps-style automation platforms  
+AI-assisted debugging and training environments  
+Operational dashboards and control planes
 
-Most projects are designed to remove manual loops and turn repeated decisions into systems.
+Most projects are built to collapse manual decision loops into software.
 
 ---
 
-## Stack
+## Stack and tooling
 
 Python, SQL, TypeScript  
 Databricks, Snowflake, PostgreSQL  
 Airflow, Docker, GitHub Actions  
-Warehouse design, incremental pipelines, orchestration  
-LLM systems, agents, RL training pipelines  
-Internal tools, APIs, data-centric UIs
+Incremental pipelines, orchestration, warehouse design  
+LLM systems, agent frameworks, RL training stacks  
+Internal tools, APIs, and data-centric user interfaces
 
 ---
 
@@ -89,8 +63,8 @@ Internal tools, APIs, data-centric UIs
 
 Production first  
 Systems over scripts  
-Observability over assumptions  
-AI as software, not demos  
+Observability before optimization  
+AI as software, not artifacts  
 Data systems are products
 
 ---
@@ -102,13 +76,10 @@ Analytics engineer
 Applied ML or AI engineer  
 Data platform engineer
 
-I work best on teams building platforms, internal products, and data driven systems.
+I work best on teams building platforms, internal products, and data-driven systems where software, data, and intelligence intersect.
 
 ---
 
 ## Contact
 
-If you are building data platforms, applied AI tools, or internal engineering systems, I am open to serious technical work.
-
-
-</div>
+If you are building serious data platforms or applied AI systems, I am open to technical work.
