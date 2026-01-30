@@ -8,6 +8,24 @@ I focus on systems that are reliable, observable, and composable. If it cannot r
 
 ---
 
+## Current projects
+
+https://snapbadge.top/ - A social media platform i created to share diverse photos organized by badges.
+
+https://www.osceolasod.com/ - Rebuilt a local companies website for SEO, automation, and chatbots. As well as managing their ads saving them hundreds a month and removing vendor lockin.
+
+https://debugger-zeta.vercel.app/ - An educational platform to teach vibe coders how to actually debug and avoid frustrations
+
+https://horseplay-eight.vercel.app/ - An online version of real life basketball to help you and a remote friend play a game of HORSE remotely.
+
+https://casetify-chatbot.vercel.app/ - A chatbot created for a client who needed to integrate their inventory, customer support, appointment booking and more.
+
+https://yazee.vercel.app/ - An attempt to improve the game of yahtzee by adding rougelike elements and quality of life improvements for frictionless play.
+
+
+
+---
+
 ## Areas of work
 
 Data engineering and platform design  
