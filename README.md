@@ -22,6 +22,8 @@ https://casetify-chatbot.vercel.app/ - A chatbot created for a client who needed
 
 https://yazee.vercel.app/ - An attempt to improve the game of yahtzee by adding rougelike elements and quality of life improvements for frictionless play.
 
+https://curious-innovators-academy.vercel.app/ - Open-source school information system and scheduling starter (Next.js + Supabase). Fork-ready SIS boilerplate with parent/teacher/admin demo roles. ([source](https://github.com/dejoski/curious-innovators-academy))
+
 
 
 ---
