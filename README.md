@@ -10,8 +10,6 @@ I focus on systems that are reliable, observable, and composable. If it cannot r
 
 ## Current projects
 
-https://snapbadge.top/ - A social media platform i created to share diverse photos organized by badges.
-
 https://www.osceolasod.com/ - Rebuilt a local companies website for SEO, automation, and chatbots. As well as managing their ads saving them hundreds a month and removing vendor lockin.
 
 https://debugger-zeta.vercel.app/ - An educational platform to teach vibe coders how to actually debug and avoid frustrations
